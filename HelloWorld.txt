@@ -1,1 +1,3 @@
 Hello world, First commit
+
+VERSION: 2.0
